@@ -57,4 +57,5 @@ Refer to the `/docs/topology-diagram.png` for a detailed visual representation o
 
 ## 📥 **Setup Instructions:**  
 1. Clone the repository:  
-   ```bashhttps://github.com/Huzaifanasir95/retail-network-cisco-packet-tracer.git
+   ```bash
+   git clone https://github.com/Huzaifanasir95/retail-network-cisco-packet-tracer.git
