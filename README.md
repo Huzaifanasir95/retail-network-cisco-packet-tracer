@@ -50,10 +50,6 @@ This project showcases a **Retail Chain Network Design** using **Cisco Packet Tr
 
 ---
 
-## 📸 **Network Topology Diagram:**  
-Refer to the `/docs/topology-diagram.png` for a detailed visual representation of the network architecture.  
-
----
 
 ## 📥 **Setup Instructions:**  
 1. Clone the repository:  
